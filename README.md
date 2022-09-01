@@ -6,4 +6,4 @@
 # TryHackMe Badges
 
 <img src="https://raw.githubusercontent.com/MiloRaz92/BlueTeamNoob/51d3ac69393ec83810e4925b5ff4846f11d7353b/networkfundamentals.svg" width="200" height="200">
-<b>Network Nerd</b> - Complete the Networking Fundamentals module 
+<b>Networking Nerd</b> - Complete the Networking Fundamentals module 
