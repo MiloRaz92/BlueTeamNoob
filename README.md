@@ -1,7 +1,8 @@
 # BlueTeamNoob
 
 # TryHackMe Certificates
-![alt text](https://github.com/MiloRaz92/BlueTeamNoob/blob/main/Intro%20to%20Cyber%20Security%20Certificate.png?raw=true)
+<img src="https://github.com/MiloRaz92/BlueTeamNoob/blob/main/Intro%20to%20Cyber%20Security%20Certificate%20resized.png?raw=true">
+
 
 # TryHackMe Badges
 
