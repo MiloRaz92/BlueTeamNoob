@@ -5,3 +5,5 @@
 
 # TryHackMe Badges
 ![alt text](https://raw.githubusercontent.com/MiloRaz92/BlueTeamNoob/51d3ac69393ec83810e4925b5ff4846f11d7353b/networkfundamentals.svg)
+
+<img src="https://raw.githubusercontent.com/MiloRaz92/BlueTeamNoob/51d3ac69393ec83810e4925b5ff4846f11d7353b/networkfundamentals.svg" width="100" height="100">
