@@ -2,7 +2,7 @@
 
 Hi I'm learning
 ````
-Hi, I'm [learning]
+How to do stuff
 ````
 
 # TryHackMe Certificates
